@@ -3,6 +3,7 @@
   "name": "cara",
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
   "version": "0.2.11",
+  "homepage": "https://jgiang15.github.io/The-Portfolio",
   "author": "LekoArts <hello@lekoarts.de>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-cara",
@@ -25,6 +26,7 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "gh-pages": "^4.0.0"
   }
 }
